@@ -36,7 +36,7 @@ Users can slice the data dynamically using the following filter panel options:
 - 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](screenshots/Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ## Tools Used
 - **Power BI Desktop** — for data modeling, DAX calculations, and dashboard design.
