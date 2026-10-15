@@ -46,7 +46,7 @@ Users can slice the data dynamically using the following filter panel options:
 The dashboard was created to demonstrate how HR data can be transformed into actionable visual insights, enabling stakeholders to identify at-risk employee segments, understand the drivers of attrition, and support strategic workforce planning.
 
 ## How to Use
-1. Download **HR_Dashboard.pbix** and open it in Power BI Desktop.
+1. Download **HR_Analysis_Dashboard.pbix** and open it in Power BI Desktop.
 2. Use the filter panel on the left to explore attrition patterns by department, role, gender, travel frequency, or overtime status.
 3. Hover over visuals for detailed tooltips and drill-down insights.
 
